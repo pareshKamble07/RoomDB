@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndySoft</string>
+
+    <string-array name="AuthorNames">
+        <item>William Shakespeare</item>
+        <item>Emily Dickinson</item>
+        <item> H. P. Lovecraft</item>
+        <item>Arthur Conan Doyle</item>
+        <item>Leo Tolstoy</item>
+
+    </string-array>
+
+    <string name="camera">Camera</string>
+    <string name="folder">Folder</string>
+</resources>
